@@ -1,0 +1,15 @@
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi.deps.json
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi.runtimeconfig.json
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi.dll
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi.pdb
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.csproj.AssemblyReference.cache
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.AssemblyInfoInputs.cache
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.AssemblyInfo.cs
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.csproj.CoreCompileInputs.cache
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.dll
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/refint/TelefonRehberi.dll
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.pdb
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.genruntimeconfig.cache
+/Users/omersaldiran/Documents/Dotnet/TelefonRehberi/obj/Debug/net6.0/ref/TelefonRehberi.dll
